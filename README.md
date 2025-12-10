@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Babajan Banaganapalli
 
-## 🧬 Associate Professor | Clinical Bioinformatician | AI in Medical Research | Mobile App Developer
+## 🧬 Associate Professor | Clinical Bioinformatician | AI in Medical Research | App Developer
 
 🎓 **12+ years** of experience in **clinical bioinformatics** and **genetic medicine**  
 🏛️ King Abdulaziz University, Saudi Arabia  
